@@ -113,6 +113,3 @@ class Charge {
         }
     }
 }
-
-// this.location.x - cos(this.velocity.heading()) * this.tail,
-// this.location.y - sin(this.velocity.heading()) * this.tail
