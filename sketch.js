@@ -2,7 +2,7 @@ let charges = [];
 
 // coulomb force constant k
 let k = 30;
-let number_of_charges = 100;
+let number_of_charges = 20;
 
 let polarities = [-1, 1];
 
